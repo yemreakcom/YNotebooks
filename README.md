@@ -1,4 +1,4 @@
-# 📚 YNoteBooks
+# 📚 YNotebooks
 
 Kişisel veya derlediğim çalıma notlarım
 
