@@ -1,0 +1,16 @@
+[submodule "Python-Notebooks"]
+	path = Python-Notebooks
+	url = https://github.com/YEmreAk/Python-Notebooks
+
+[submodule "AI-Notebooks"]
+	path = AI-Notebooks
+	url = https://github.com/YEmreAk/AI-Notebooks
+
+[submodule "ML-Notebooks"]
+	path = ML-Notebooks
+	url = https://github.com/YEmreAk/ML-Notebooks
+
+[submodule "DS-Notebooks"]
+	path = DS-Notebooks
+	url = https://github.com/YEmreAk/DS-Notebooks
+
