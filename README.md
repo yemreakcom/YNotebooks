@@ -2,6 +2,11 @@
 
 Kişisel veya derlediğim çalıma notlarım
 
+- [📗 Python-Notebooks](https://github.com/YEmreAk/Python-Notebooks)
+- [📙 AI-Notebooks](https://github.com/YEmreAk/AI-Notebooks)
+- [📕 ML-Notebooks](https://github.com/YEmreAk/ML-Notebooks)
+- [📘 DS-Notebooks](https://github.com/YEmreAk/DS-Notebooks)
+
 ![](res/all_notebooks.png)
 
 ## 💖 Destek ve İletişim
